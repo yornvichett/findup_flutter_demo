@@ -23,14 +23,14 @@ This repository exists only to show **code structure and development experience*
 ---
 
 ## Project Structure
-
+```
 lib/
 ├─ Core/ # Helpers, services, constants, navigation
 ├─ Data/ # Models and data handling
 ├─ Firebase/ # Firebase integration (demo structure)
 ├─ Pages/ # UI screens and widgets
 └─ main.dart # Application entry point (demo)
-
+```
 
 
 
